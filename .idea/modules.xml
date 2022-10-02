@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FindtheDuplicateNumber/FindtheDuplicateNumber.iml" filepath="$PROJECT_DIR$/FindtheDuplicateNumber/FindtheDuplicateNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberOfStep/NumberOfStep.iml" filepath="$PROJECT_DIR$/NumberOfStep/NumberOfStep.iml" />
       <module fileurl="file://$PROJECT_DIR$/PalindromeLinkedList/PalindromeLinkedList.iml" filepath="$PROJECT_DIR$/PalindromeLinkedList/PalindromeLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/RansomNote/RansomNote.iml" filepath="$PROJECT_DIR$/RansomNote/RansomNote.iml" />
       <module fileurl="file://$PROJECT_DIR$/RomanToInt/RomanToInt.iml" filepath="$PROJECT_DIR$/RomanToInt/RomanToInt.iml" />
